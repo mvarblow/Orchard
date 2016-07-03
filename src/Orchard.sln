@@ -216,8 +216,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchard.OutputCache", "Orch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Upgrade", "Orchard.Web\Modules\Upgrade\Upgrade.csproj", "{8A9FDB57-342D-49C2-BAFC-D885AAE5CC7C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules.Deprecated", "Modules.Deprecated", "{902528F6-1444-42A3-8B75-A54B775B539C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchard.Azure", "Orchard.Web\Modules\Orchard.Azure\Orchard.Azure.csproj", "{CBC7993C-57D8-4A6C-992C-19E849DFE71D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchard.SecureSocketsLayer", "Orchard.Web\Modules\Orchard.SecureSocketsLayer\Orchard.SecureSocketsLayer.csproj", "{36B82383-D69E-4897-A24A-648BABDF80EC}"
